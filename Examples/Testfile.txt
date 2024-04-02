@@ -1,0 +1,7 @@
+this is the text file
+to read
+this line has error
+this does not
+this again has error
+this has just err
+this has Error again
